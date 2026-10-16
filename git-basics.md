@@ -1,5 +1,13 @@
 # Your first Git repository 🌱
 
+> **Tutorial panel didn't open?** Run this in the terminal at the bottom:
+>
+> ```sh
+> cd ~/cloudshell_open/git-basics && cloudshell launch-tutorial git-basics.md
+> ```
+>
+> (If you opened the link more than once, the folder may be called `git-basics-1`: type `cd ~/cloudshell_open/git` and press **Tab**.)
+
 <walkthrough-tutorial-duration duration="10"></walkthrough-tutorial-duration>
 
 **Git** remembers every version of your files: what changed, who changed it, when, and why. It is **View history** for code.
